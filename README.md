@@ -2,7 +2,7 @@
 
 This [CodePen example](https://codepen.io/iamsaief/full/jObaoKo) taught me how to make a masonry layout using grid.
 
-[DEMO]()
+[DEMO](https://fervent-mahavira-782538.netlify.app/)
 
 ## Reference
 
